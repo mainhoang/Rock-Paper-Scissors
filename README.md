@@ -1,5 +1,5 @@
 # Rock-Paper-Scissors
-UCLA Extension Bootcamp - Homework # 7
+UCLA Extension Bootcamp - Homework # 7.1
 
 ## Instructions
 ### Overview
